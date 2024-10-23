@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<!-- **vari-ang/vari-ang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **variang/variang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- - 🔭 I’m currently working on developing a web based app fullstack and doing API integration with a Payment Gateway -->
-- 🌱 I’m currently working in payment industry as a Backend Engineer using Java
-- 👯 I’m looking to collaborate on any projects
+- 🌱 I'm currently working as a Java Backend Engineer in the payments industry
+- 🔭 I'm interested in and actively learning about AI automation
+- 👯 I'm looking to collaborate on projects, especially those related to AI automation
 - 💬 Ask me about anything
-- 📫 How to reach me: drop me an email at vari.ang98@gmail.com
+- 📫 Drop me an email at vari.ang98@gmail.com
 <!-- 
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
