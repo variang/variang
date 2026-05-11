@@ -2,7 +2,7 @@
 
 <!-- **variang/variang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🌱 I'm currently working as a Golang Backend Engineer
+- 🌱 I'm currently working as a Senior Software Engineer, Applied AI
 - 🔭 I'm interested in and actively learning about AI automation
 - 👯 I'm looking to collaborate on projects, especially those related to AI automation
 - 💬 Ask me about anything
